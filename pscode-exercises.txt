@@ -1,0 +1,32 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+Ask for input of first number.
+Ask for input of second number.
+Add both inputs together.
+Display resulting new number.
+
+// Exercise 2: Check if a Number is Even or Odd
+
+Ask for input of a number.
+Divide number by 2.
+If new number has no remainder, display "even".
+If new number has a remainder, display "odd".
+End.
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+a) Ask for input of a number. Repeat process 5 times, total.
+b) Add the 5 input numbers together, divide by 5. Display new number (average).
+c) Order numbers from smallest to largest; display digit at spot 0, and at spot 4.
+d) Display results:
+- Input numbers: (result of a))
+- Average: (result of b))
+- Minimum: (result of c.1)); Maximum: (result of c.2))
+
+-- END --
